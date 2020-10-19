@@ -8,7 +8,7 @@ Thereinto, the VEN applies our proposed hierarchical semantic strategy to the in
 Afterwards, we develop a multi-granularity interaction network (MIN) to achieve high-quality moment localization in an effective coarse-to-fine manner. To be more specific, it first utilizes efficient coarse-grained semantic pruning to filter out corresponding semantic ranges and ignore irrelevant parts, and then performs fine-grained semantic fusing for accurate moments localization.<br>
 We conduct extensive experiments on two benchmark datasets ActivityNet Captions and TACoS. The experimental results show that our proposed model is more effective, efﬁcient than the state-of-the-art models.<br>
 The introduction of CLEAR in details will be given in the form of an authorized patent and a published paper later.<br>
-An illustration of the framework of CLEAR is shown in the following figure.
+An illustration of the framework of CLEAR is shown in the following figure.<br>
 ![CLEAR](initmodel.png)<br>
 
 ## Dateset
