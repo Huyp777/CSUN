@@ -9,8 +9,7 @@ Afterwards, we develop a multi-granularity interaction network (MIN) to achieve 
 We conduct extensive experiments on two benchmark datasets ActivityNet Captions and TACoS. The experimental results show that our proposed model is more effective, efﬁcient than the state-of-the-art models.<br>
 The introduction of CLEAR in details will be given in the form of an authorized patent and a published paper later.<br>
 An illustration of the framework of CLEAR is shown in the following figure.
-![](images/example1.png)<br>
-![](images/modelforgithub.jpg)
+![](modelforGit.png)<br>
 
 ## Dateset
 
